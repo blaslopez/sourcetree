@@ -6,3 +6,4 @@
 
 // ara que he creat la branca faig més modificacions
 
+// I AIXÒ TAMBÉ PEL POLLO2
