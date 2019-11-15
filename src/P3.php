@@ -4,4 +4,5 @@
 
 // Modificat per la funció 2 */
 
-i el modifico a master 
+// ara que he creat la branca faig més modificacions
+
