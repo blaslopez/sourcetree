@@ -2,4 +2,4 @@
 phpinfo();
 
 // aquest el modifico a la màster
-// Ho modifico per la branca 3
+// LINIA MODIFICA DES DE FORA i això també
